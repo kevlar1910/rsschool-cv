@@ -29,7 +29,7 @@ function reverse( word ) {
 ### Education and courses
 Finished BNTU in 2008
 Lessons on Youtube:
-*	*Base HTML&CSS by D.Valak*
+*	*Base HTML&CSS by Dm.Valak*
 *	*JS in simple language by Vl.Minin* 
 ***
 ### English level
