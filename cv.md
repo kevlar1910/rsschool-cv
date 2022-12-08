@@ -30,7 +30,7 @@ function reverse( word ) {
 Finished BNTU in 2008
 Lessons on Youtube:
 *	*Base HTML&CSS by D.Valak*
-*	*JS in simple language by V.Minin* 
+*	*JS in simple language by Vl.Minin* 
 ***
 ### English level
 A2
